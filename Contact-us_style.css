@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #E91E63 !important;
+    height: 60px;
+    font-weight: bold;
+}
+.fa-user-circle-o{
+    font-size: 28px;
+}
+.h1{
+    text-align: center !important;
+}
+.box{
+    margin: auto;
+    padding: auto;
+    align-items: center !important;
+    height: 500px;
+    width: 600px;
+    background-color: white ;
+    box-shadow: 1px 0px 12px 1px black;
+    text-align: center;
+    margin-top: 35px;
+    
+}
+.input-group{
+    width: 80%;
+    margin-left: 45px;
+   padding: 50px 0px;
+}
+.input-group1{
+    width: 80%;
+    margin-top: -60px;
+}
+.input-group2{
+    width: 80%;
+    margin-top: -70px;
+}
